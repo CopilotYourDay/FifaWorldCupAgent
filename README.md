@@ -6,7 +6,8 @@ Follow these steps to set up and configure your World Cup Prediction Agent.
 1. Download the **zip solution** and the **worldcuppredictions.xlsx** file.
 2. Navigate to your environment and **Import** the zip solution.
    <img width="533" height="255" alt="image" src="https://github.com/user-attachments/assets/25913499-1ccd-44aa-a6d9-2bff0737662d" />
-3. Upload the `worldcuppredictions.xlsx` file to your **OneDrive**.
+3. Upload the `worldcuppredictions.xlsx` file to your **OneDrive**. The Admin will need to add the played results here in the column Matches Master RealScoreA and B, the Excel will then automatically calculate the points.
+4. 
    <img width="264" height="309" alt="image" src="https://github.com/user-attachments/assets/6eab56f1-c39b-4800-a85f-c50659b4395f" />
 
 ### 2. Configure Power Automate Flows
