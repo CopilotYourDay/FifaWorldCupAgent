@@ -12,10 +12,13 @@ Follow these steps to set up and configure your World Cup Prediction Agent.
 
 ### 2. Configure Power Automate Flows
 4. Go to **Topics** -> **Quiz Start** and open the flow named **Create Predictions**.
+   
    <img width="173" height="179" alt="image" src="https://github.com/user-attachments/assets/819f7e69-5699-44fb-9f54-318309c8d4fc" />
-5. Configure the **4 Excel Connections** to reference the file you uploaded to OneDrive in Step 3.
+6. Configure the **4 Excel Connections** to reference the file you uploaded to OneDrive in Step 3.
+   
    <img width="540" height="518" alt="image" src="https://github.com/user-attachments/assets/ef5a9636-5d34-4632-8750-4a6c93df73b1" />
-6. Once configured, ensure the flow is turned on.
+8. Once configured, ensure the flow is turned on.
+   
    <img width="662" height="176" alt="image" src="https://github.com/user-attachments/assets/b1a12385-0274-44ac-9730-a8294add9c5e" />
 
 ### 3. Update Tools & Secondary Flows
