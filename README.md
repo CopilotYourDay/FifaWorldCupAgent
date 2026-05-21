@@ -25,17 +25,23 @@ Follow these steps to set up and configure your World Cup Prediction Agent.
 Repeat the Excel connection configuration for the following components:
 
 *   **Flow: List Open Games**
+*   
     <img width="546" height="650" alt="image" src="https://github.com/user-attachments/assets/81accb0a-bb21-472e-bfbe-20431b736839" />
 *   **Tool: List Results and Upcoming Games**
+*   
     <img width="688" height="705" alt="image" src="https://github.com/user-attachments/assets/9710690d-dc8d-4be6-afc5-beb8856d51b1" />
 *   **Tool: List Leaderboard**
+*   
     <img width="682" height="708" alt="image" src="https://github.com/user-attachments/assets/ed60bef5-6c09-46ca-8c7e-5295d6280416" />
 *   **Tool: List User Tipps**
+*   
     <img width="670" height="710" alt="image" src="https://github.com/user-attachments/assets/0146ee77-6bec-4cd2-87d5-74883acda5f7" />
 *   **Tool: Update User Tips**
+*   
     <img width="665" height="871" alt="image" src="https://github.com/user-attachments/assets/c0e3b48f-ed52-4a01-968e-725251cf0aad" />
 
 ### 4. Testing & Deployment
 7. You are now ready! Test your agent in the test window to ensure all data is being pulled correctly.
+   
    <img width="1129" height="855" alt="image" src="https://github.com/user-attachments/assets/d6f09ca8-293d-4202-86f4-5c7595309aba" />
-8. **Publish** your agent to Copilot or Microsoft Teams and share it with your teammates. Who will be the best guesser?
+9. **Publish** your agent to Copilot or Microsoft Teams and share it with your teammates. Who will be the best guesser?
